@@ -1,0 +1,27 @@
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\bin\Debug\Example 6-3.exe
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\bin\Debug\Example 6-3.pdb
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\Example_6_3.Form1.resources
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\Example_6_3.Properties.Resources.resources
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.exe
+c:\users\m-h computer\documents\visual studio 2010\Projects\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.pdb
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.exe
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.pdb
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\bin\Debug\Example 6-3.exe
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\bin\Debug\Example 6-3.pdb
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example_6_3.Form1.resources
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example_6_3.Properties.Resources.resources
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\کتابهای من\C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\bin\Debug\Example 6-3.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\bin\Debug\Example 6-3.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example_6_3.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example_6_3.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part6\Example 6-3\Example 6-3\obj\x86\Debug\Example 6-3.pdb
